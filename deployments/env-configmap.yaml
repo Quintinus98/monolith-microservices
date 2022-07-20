@@ -7,7 +7,7 @@ data:
   POSTGRES_DB: postgres
   POSTGRES_PASSWORD: postgres
   POSTGRES_USERNAME: postgres
-  AWS_BUCKET: arn:aws:s3:::my-eks-bucket
+  AWS_BUCKET: my-eks-bucket
   AWS_REGION: us-east-1
   AWS_PROFILE: default
   JWT_SECRET: testing
